@@ -25,7 +25,7 @@ Answer: Yes, features like number of bedrooms etc.do affect listing price
 Q3. Using Machine Learning, which features are more important related to pricing?
 Answer: Using Machine learning top important feature for Seattle is number of bedrooms and for Boston is Private roon in room_type feature.
 
-I have posted a detailed analysis on Medium here.
+I have posted a detailed analysis on Medium post [here](https://medium.com/@deepchatterjee./airbnb-data-analysis-seattle-and-boston-4e1f608688e3).
 
 ## Acknowledgement
 Thank you Airbnb for providing the data and Udacity for in-depth tutorials to make learning fun.
